@@ -1,5 +1,5 @@
 
-
+# I MADE THIS MODE USING THE FOLLOWING TEMPLATE AND IM TOO LAZY TO CHANGE THIS
 # Lethal Company Unity Template
 **This is a unity template project for making Custom Assets for Lethal Company.**
 
